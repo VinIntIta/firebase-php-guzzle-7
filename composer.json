@@ -2,7 +2,7 @@
     "name": "serega_mk/firebase-php-guzzle-7",
     "description": "Firebase Admin SDK",
     "keywords": ["firebase", "google", "sdk", "api", "database"],
-    "homepage": "https://github.com/kreait/firebase-php",
+    "homepage": "https://github.com/Seregamk/firebase-php-guzzle-7",
     "license": "MIT",
     "authors": [
         {
