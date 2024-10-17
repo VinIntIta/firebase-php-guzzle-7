@@ -1,13 +1,13 @@
 {
-    "name": "serega_mk/firebase-php-guzzle-7",
+    "name": "vinintita/firebase-php-guzzle-7",
     "description": "Firebase Admin SDK",
     "keywords": ["firebase", "google", "sdk", "api", "database"],
-    "homepage": "https://github.com/Seregamk/firebase-php-guzzle-7",
+    "homepage": "https://github.com/VinIntIta/firebase-php-guzzle-7",
     "license": "MIT",
     "authors": [
         {
-            "name": "Seregamk",
-            "homepage": "https://github.com/Seregamk"
+            "name": "VinIntIta",
+            "homepage": "https://github.com/VinIntIta"
         }
     ],
     "support": {
