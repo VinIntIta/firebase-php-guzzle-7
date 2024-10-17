@@ -1,13 +1,13 @@
 {
-    "name": "kreait/firebase-php",
+    "name": "serega_mk/firebase-php-guzzle-7",
     "description": "Firebase Admin SDK",
     "keywords": ["firebase", "google", "sdk", "api", "database"],
     "homepage": "https://github.com/kreait/firebase-php",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jérôme Gamez",
-            "homepage": "https://github.com/jeromegamez"
+            "name": "Seregamk",
+            "homepage": "https://github.com/Seregamk"
         }
     ],
     "support": {
