@@ -208,8 +208,6 @@ final class CloudMessage implements Message
             $data[$this->target->type()] = $this->target->value();
         }
 
-        return [
-            'message' => \array_filter($data),
-        ];
+        return \array_filter($data);
     }
 }
